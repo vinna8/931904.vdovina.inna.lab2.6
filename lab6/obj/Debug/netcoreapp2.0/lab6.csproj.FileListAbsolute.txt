@@ -1,0 +1,82 @@
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.deps.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.dev.json
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.dll
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\bin\Debug\netcoreapp2.0\lab6.pdb
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.csprojAssemblyReference.cache
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfoInputs.cache
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfo.cs
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.CoreCompileInputs.cache
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.dll
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.pdb
+C:\Users\appac\Desktop\web 6\931801.Krishtalev.WebLab2_6-main\lab6\obj\Debug\netcoreapp2.0\lab6.genruntimeconfig.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\bin\Debug\netcoreapp2.0\lab6.deps.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.dev.json
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\bin\Debug\netcoreapp2.0\lab6.dll
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\bin\Debug\netcoreapp2.0\lab6.pdb
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.csprojAssemblyReference.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfoInputs.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfo.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.CoreCompileInputs.cache
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.dll
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.pdb
+D:\Учеба\6 семестр\Web\931802.sergina.aleksandra.lab6-main\lab6\obj\Debug\netcoreapp2.0\lab6.genruntimeconfig.cache
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\appsettings.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.deps.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.dev.json
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.dll
+D:\WWW\lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.pdb
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.csprojAssemblyReference.cache
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfoInputs.cache
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfo.cs
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.CoreCompileInputs.cache
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.dll
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.pdb
+D:\WWW\lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.genruntimeconfig.cache
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\bin\Debug\netcoreapp2.0\appsettings.Development.json
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\bin\Debug\netcoreapp2.0\appsettings.json
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\bin\Debug\netcoreapp2.0\bundleconfig.json
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\bin\Debug\netcoreapp2.0\lab6.deps.json
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.json
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.dev.json
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\bin\Debug\netcoreapp2.0\lab6.dll
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\bin\Debug\netcoreapp2.0\lab6.pdb
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.AssemblyReference.cache
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfoInputs.cache
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfo.cs
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.CoreCompileInputs.cache
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\lab6.dll
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\lab6.pdb
+F:\мусор\ТГУ\WEB\lab2.6-master\lab6\obj\Debug\netcoreapp2.0\lab6.genruntimeconfig.cache
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\bin\Debug\netcoreapp2.0\appsettings.Development.json
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\bin\Debug\netcoreapp2.0\appsettings.json
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\bin\Debug\netcoreapp2.0\bundleconfig.json
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.deps.json
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.json
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.runtimeconfig.dev.json
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.dll
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\bin\Debug\netcoreapp2.0\lab6.pdb
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.AssemblyReference.cache
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.GeneratedMSBuildEditorConfig.editorconfig
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfoInputs.cache
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.AssemblyInfo.cs
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.csproj.CoreCompileInputs.cache
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.dll
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.pdb
+F:\мусор\ТГУ\WEB\931904.vdovina.inna.lab2.6\lab6\obj\Debug\netcoreapp2.0\lab6.genruntimeconfig.cache
